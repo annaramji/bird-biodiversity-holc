@@ -1,15 +1,10 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
 
 # Bird Biodiversity by HOLC Grades in LA County
 
 Analysis of biodiversity in bird observations in historically redlined
 areas in Los Angeles
 
-![](figs/birds-on-power-line.png){width="643"}
+![](figs/birds-on-power-line.png)
 
 ## Background
 
@@ -68,7 +63,7 @@ because conservation decisions are made based on these data.
 
 ## Data
 
-**EJ Screen US EPA data:**
+### EJ Screen US EPA data:
 
 To understand the current environmental, demographic, and public health
 conditions at a census block group level in LA County, I work with data
@@ -91,7 +86,7 @@ Environmental Justice Screening and Mapping Tool [Data file] Available
 from: <https://www.epa.gov/ejscreen/download-ejscreen-data> Accessed
 December 15, 2023.
 
-**HOLC grade data:**
+### HOLC grade data:
 
 In my analysis, I use maps of HOLC grade designations for Los Angeles.
 These are from digitized maps and information from the HOLC that a team
@@ -107,7 +102,7 @@ project. - More information on this data can be found
 Digital Scholarship Lab, Mapping Inequality. [Data File] Available from:
 <https://dsl.richmond.edu/> Accessed December 15, 2023.
 
-**Bird observations/biodiversity data:**
+### Bird observations/biodiversity data:
 
 Another key part of my analysis is the bird biodiversity data. In my
 analysis, I work with Global Biodiversity Information Facility (GBIF)
